@@ -1,0 +1,8 @@
+/.mypy_cache
+/cayuse_data_load.log
+/config.yaml
+/output
+/reports
+/sftp_archive
+/venv
+/__pycache__
